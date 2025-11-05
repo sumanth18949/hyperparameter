@@ -21,7 +21,7 @@ The workflow includes:
 
 **CIFAR-10** dataset consists of:
 - **60,000 color images** (32×32×3)
-- **10 classes:** airplane, bird, cat,frog,ship
+- **classes:** airplane, bird, cat,frog,ship
 
 The dataset is automatically loaded via:
 ```python
